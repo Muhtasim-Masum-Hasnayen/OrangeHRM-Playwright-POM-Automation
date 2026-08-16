@@ -1,0 +1,14 @@
+{
+  "name": "orangehrm-playwright-pom-assignment",
+  "version": "1.0.0",
+  "description": "OrangeHRM end-to-end Playwright assignment using Page Object Model",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.54.0"
+  }
+}
