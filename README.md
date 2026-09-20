@@ -1,3 +1,13 @@
+## 🎥 Automation Demo
+
+### ▶️ Test Execution Preview
+
+![OrangeHRM Playwright Automation Demo](./demo/webm.gif)
+
+### 🎬 Full Test Execution Video
+
+[▶️ Watch Full Automation Video](./demo/video.webm)
+
 # 🧪 OrangeHRM Playwright POM Automation
 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
